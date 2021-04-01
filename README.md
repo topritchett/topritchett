@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Kubernetes, Go, and AI at the edge.
-- 🤔 I’m looking for help with my [SmartThermostat](https://github.com/topritchett/smart_thermostat) project.
 
 <!--
 **topritchett/topritchett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
